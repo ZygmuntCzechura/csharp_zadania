@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33403.182
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Algorytmy", "Algorytmy\Algorytmy.csproj", "{37117E3B-EFD2-4E2E-8112-53F02460D2ED}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Algorytm2", "Algorytm2\Algorytm2.csproj", "{FDAA7689-69F6-4209-8ED5-F6D2D1F46C4B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{37117E3B-EFD2-4E2E-8112-53F02460D2ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37117E3B-EFD2-4E2E-8112-53F02460D2ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37117E3B-EFD2-4E2E-8112-53F02460D2ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37117E3B-EFD2-4E2E-8112-53F02460D2ED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FDAA7689-69F6-4209-8ED5-F6D2D1F46C4B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FDAA7689-69F6-4209-8ED5-F6D2D1F46C4B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FDAA7689-69F6-4209-8ED5-F6D2D1F46C4B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FDAA7689-69F6-4209-8ED5-F6D2D1F46C4B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EA2FFB00-9D6B-44DE-863B-5E65F9D17B19}
+	EndGlobalSection
+EndGlobal
